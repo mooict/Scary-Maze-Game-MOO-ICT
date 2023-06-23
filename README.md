@@ -13,7 +13,7 @@ Create a separate form and make it full screen for that extra punch of SCARE
 Play Looping audio files in C# (ambient background music )
 Play one time playing audio Files in C# (Scream sound)
 
-# Video Tutorial - Click below to Watch this video no YouTube
+# Video Tutorial - Click below to Watch this video on YouTube
 
 [![](http://img.youtube.com/vi/rpgvYmkJHyU/0.jpg)](https://www.youtube.com/watch?v=rpgvYmkJHyU "MOO ICT C# Tutorial Video Tutorial")
 
